@@ -30,7 +30,9 @@ namespace NumbersPattren
 
                 }
                 Console.WriteLine();
+                
             }
+            Console.WriteLine("hello world");
             Console.ReadLine();
 
         }
