@@ -4,14 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hello
+namespace EnumInCSharp
 {
-  public class Program
+public class Program
     {
+        enum Level
+        {
+            low,
+            Medium,
+            High
+
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("455"); 
+            Level myVar = Level.High;
+            Console.WriteLine(myVar);
             Console.ReadLine();
+
         }
     }
 }
