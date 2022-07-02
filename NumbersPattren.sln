@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLlL", "BLlL\BLlL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIFFERENCE _BETWEEN_NON-GENERIC_AND_GENERIC_COLLECTIONS", "DIFFERENCE _BETWEEN_NON-GENERIC_AND_GENERIC_COLLECTIONS\DIFFERENCE _BETWEEN_NON-GENERIC_AND_GENERIC_COLLECTIONS.csproj", "{B811DF46-23C7-47BF-A299-14B8F68C8287}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open–closed principle", "Open–closed principle\Open–closed principle.csproj", "{2BF9C32A-9341-4B83-9A13-93E8F00EB9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{B811DF46-23C7-47BF-A299-14B8F68C8287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B811DF46-23C7-47BF-A299-14B8F68C8287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B811DF46-23C7-47BF-A299-14B8F68C8287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF9C32A-9341-4B83-9A13-93E8F00EB9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF9C32A-9341-4B83-9A13-93E8F00EB9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF9C32A-9341-4B83-9A13-93E8F00EB9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF9C32A-9341-4B83-9A13-93E8F00EB9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
