@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Cast_Delegates", "Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multipule_Delegates", "Multipule_Delegates\Multipule_Delegates.csproj", "{9D3F010B-51EA-4389-81EB-5246F3D6A3ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash_Table_ Collection", "Hash_Table_ Collection\Hash_Table_ Collection.csproj", "{9B653A04-0C83-4FE8-97A6-6D32BFA0EECB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{9D3F010B-51EA-4389-81EB-5246F3D6A3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D3F010B-51EA-4389-81EB-5246F3D6A3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D3F010B-51EA-4389-81EB-5246F3D6A3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B653A04-0C83-4FE8-97A6-6D32BFA0EECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B653A04-0C83-4FE8-97A6-6D32BFA0EECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B653A04-0C83-4FE8-97A6-6D32BFA0EECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B653A04-0C83-4FE8-97A6-6D32BFA0EECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
