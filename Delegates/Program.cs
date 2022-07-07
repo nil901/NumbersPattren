@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Delegates
 {
-     public delegate void calculation(int a ,int b);
+     public delegate void Calculation(int a ,int b);
   
     public  class Program
     { 
@@ -18,7 +18,7 @@ namespace Delegates
         public static void subtraction(int a, int b)
         {
             int result = a - b;
-            Console.WriteLine("subtraction result is {0}", result);
+            Console.WriteLine($"subtraction {result}  is {0}" );
         }
         public static void multiplication(int a, int b)
         {
@@ -33,8 +33,8 @@ namespace Delegates
        
         static void Main(string[] args)
         {
-            calculation obj = new calculation(Program.Addition);
-            calculation obj1 = new calculation(Program.multiplication);
+            Calculation obj = new Calculation(Program.Addition);
+            Calculation obj1 = new Calculation(Program.multiplication);
             obj1(5, 6); 
             
             //obj.Invoke(20,20);

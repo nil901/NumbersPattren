@@ -11,12 +11,15 @@ namespace Files
     {
         static void Main(string[] args)
         {
-            //string writeText = "Hello World!";  
-            //File.WriteAllText("F:\\FileText.txt  ", writeText);  
+            //string writeText ="hello Nilesh";
+            //File.WriteAllText("F:\\FileText.txt  ", writeText);
 
-            string readText = File.ReadAllText("F:\\FileText.txt");  
+            string readText = File.ReadAllText("F:\\FileText.txt");
             Console.WriteLine(readText);
-            Console.ReadLine();
+            Console.ReadLine(); 
+
+
+
         }
     }
 }
