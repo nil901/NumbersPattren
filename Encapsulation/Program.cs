@@ -54,7 +54,8 @@ namespace Encapsulation
     {
         static void Main(string[] args)
         {
-            Account ac = new Account();
+            Account ac = new Account(); 
+           
             //ac.SetBalance(-1000);  
             //ac.getBalacnce();  
             ac.balance = -23;
