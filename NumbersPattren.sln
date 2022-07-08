@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "params", "params\params.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_ statement", "Jump_ statement\Jump_ statement.csproj", "{0C9A3B3C-C07F-482D-9737-8CDCB69C51EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Object", "Class_Object\Class_Object.csproj", "{A1BCC8B0-2601-4E27-BBDF-C388BEE7C14E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{0C9A3B3C-C07F-482D-9737-8CDCB69C51EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C9A3B3C-C07F-482D-9737-8CDCB69C51EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C9A3B3C-C07F-482D-9737-8CDCB69C51EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BCC8B0-2601-4E27-BBDF-C388BEE7C14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BCC8B0-2601-4E27-BBDF-C388BEE7C14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BCC8B0-2601-4E27-BBDF-C388BEE7C14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BCC8B0-2601-4E27-BBDF-C388BEE7C14E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
